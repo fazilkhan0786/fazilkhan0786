@@ -1,29 +1,134 @@
-## Hi there 👋 I'm FazilKhan Malek
+<h1 align="center">Hi there, I'm FazilKhan Malek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate Computer Engineering student & AI Developer from Ahmedabad, India.</h3>
 
-# 💫 About Me:
-🔭 I'm currently working on Trashee(An Eco-Friendly Revolution step)<br>👯 I'm looking to collaborate with people who can help me build 1st ever Ai Powered Health Platform NuroCare<br>🤙 I'm looking for help with Frontend UI/UX designer and Data Analyst<br>🌱 I'm currently learning TensorFlow Lite, Game Designing and Ai/ML<br>💭 You can ask me about proper mvp build and team management<br>⚡️ Fun Fact about me is i am 18 years old and i can build, manage and handle Ai with its highest efficiency and also i can complete work ASAP compare to teams using proper useful AI stack<br>🏫 I'm currently studying in Sal College Of Engineering Located in Sola, Ahmedabad persuing my dreams in Computer Engineering currently in 3rd sem 2nd year 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fazilkhan0786&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="profile visitors" />
+</p>
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+## 🚀 About Me
+<p>
+  🔭 Building **Trashee**: An eco-friendly revolution step.<br>
+  👯 Collaborating on **NuroCare**: My vision for an AI-powered health platform.<br>
+  🤝 Seeking: **Frontend UI/UX Designers** & **Data Analysts**.<br>
+  🌱 Learning: **TensorFlow Lite**, **Game Design**, & **AI/ML**.<br>
+  💬 Ask me about: **Building an MVP** & **Team Management**.<br>
+  🎓 Studying: 2nd Year B.E. at **Sal College Of Engineering**.<br>
+  ⚡ Fun Fact: 18 y/o, leveraging AI to build and scale projects with high efficiency.
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1D2z8DZVNM/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fazilkhan_078?igsh=MXFlZnA3OWEzenQzZQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazilkhan-malek-392082377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FazilkhanM0786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malekfazilkhan01@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fazilkhan0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fazilkhan0786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazilkhan0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/fazilkhan-malek-392082377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/FazilkhanM0786" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.instagram.com/fazilkhan_078?igsh=MXFlZnA3OWEzenQzZQ%3D%D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:malekfazilkhan01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.facebook.com/share/1D2z8DZVNM/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fazilkhan0786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ My Tech Stack
+<p>Click to expand the sections and see the technologies I work with!</p>
+      
+<details>
+  <summary><b>Languages</b></summary>
+  <p align="left">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </p>
+</details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fazilkhan0786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<details>
+  <summary><b>Frontend & Mobile</b></summary>
+  <p align="left">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js">
+  </p>
+</details>
 
----
-[![](https://visitcount.itsvg.in/api?id=fazilkhan0786&icon=10&color=0)](https://visitcount.itsvg.in)
+<details>
+  <summary><b>Backend & Databases</b></summary>
+  <p align="left">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  </p>
+</details>
 
+<details>
+  <summary><b>AI/ML & Tools</b></summary>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">
+  </p>
+</details>
 
+</td>
+    
+<td valign="top" width="40%">
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fazilkhan0786&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="FazilKhan's GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazilkhan0786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="FazilKhan's Top Languages" />
+  <br><br>
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=fazilkhan0786&theme=dark&hide_border=false" alt="FazilKhan's GitHub Streak" />
+</p>
+      
+</td>
+  </tr>
+</table>
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fazilkhan0786&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="FazilKhan's GitHub Trophies">
+</p>
+
+<h2 align="center">🐍 My Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=fazilkhan0786&theme=dark" alt="FazilKhan's GitHub Snake Graph">
+</p>
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=fazilkhan0786&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="FazilKhan's Top Contributed Repos">
+</p>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
